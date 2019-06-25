@@ -1,5 +1,6 @@
 #!/bin/bash
 # Usage: cat /etc/motd | ./image.sh <caption>
+# Dependencies: netpbm
 CHAT_ID=''
 API_KEY=''
 
@@ -7,7 +8,7 @@ API_KEY=''
 MESSAGE=$(cat -)
 
 # Create a temporary file for our image.
-IMAGE=`tempfile -p telegram_image -s '.png'`
+IMAGE=`mktemp --suffix '.png'`
 
 # Everything passed as arguments is our caption.
 CAPTION="${@}"
