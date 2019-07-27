@@ -11,3 +11,6 @@ Example of output:
 `figlet Thanwer | ./telegram_image.sh`
 
 ![Generated image](../images/text_to_image.png)
+
+## telegram_text.sh
+This is a small tool to send texts to Telegram API using curl.
