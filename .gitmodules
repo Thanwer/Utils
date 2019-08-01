@@ -1,0 +1,3 @@
+[submodule "zabbix/zabbix-disk-performance"]
+	path = zabbix/zabbix-disk-performance
+	url = https://github.com/grundic/zabbix-disk-performance
