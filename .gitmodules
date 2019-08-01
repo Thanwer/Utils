@@ -7,3 +7,6 @@
 [submodule "zabbix/zabbix-ssl-cert"]
 	path = zabbix/zabbix-ssl-cert
 	url = https://github.com/pschmitt/zabbix-ssl-cert
+[submodule "zabbix/zabbix-mikrotik-snmp"]
+	path = zabbix/zabbix-mikrotik-snmp
+	url = https://github.com/YSmetana/zabbix-mikrotik-snmp
