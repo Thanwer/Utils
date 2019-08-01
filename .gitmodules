@@ -1,3 +1,9 @@
 [submodule "zabbix/zabbix-disk-performance"]
 	path = zabbix/zabbix-disk-performance
 	url = https://github.com/grundic/zabbix-disk-performance
+[submodule "zabbix/zabbix-ssllabs"]
+	path = zabbix/zabbix-ssllabs
+	url = https://github.com/objectiveit/zabbix-ssllabs
+[submodule "zabbix/zabbix-ssl-cert"]
+	path = zabbix/zabbix-ssl-cert
+	url = https://github.com/pschmitt/zabbix-ssl-cert
