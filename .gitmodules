@@ -13,3 +13,6 @@
 [submodule "Windows/Win10-Initial-Setup-Script"]
 	path = Windows/Win10-Initial-Setup-Script
 	url = https://github.com/Disassembler0/Win10-Initial-Setup-Script
+[submodule "Mikrotik/Mikrotik-RouterOS-automatic-backup-and-update"]
+	path = Mikrotik/Mikrotik-RouterOS-automatic-backup-and-update
+	url = git@github.com:beeyev/Mikrotik-RouterOS-automatic-backup-and-update.git
